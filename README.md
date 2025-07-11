@@ -1,5 +1,27 @@
 # 🌿 GreenLife Wellness Center Web Application
 
+## **📸 Screenshots**
+<img width="811" height="1096" alt="image" src="https://github.com/user-attachments/assets/7c37a899-e1cd-4b27-87cf-0212f481b79f" />
+<br>
+<img width="1188" height="952" alt="image" src="https://github.com/user-attachments/assets/f7b50e15-30f8-4689-878d-04d6a699b305" />
+<br>
+<img width="1188" height="952" alt="image" src="https://github.com/user-attachments/assets/ed80a291-b8db-4748-abbe-4def3e050416" />
+<br>
+<img width="826" height="1367" alt="image" src="https://github.com/user-attachments/assets/500cadae-d0db-4e90-a5c2-5faf7fbdfff2" />
+<br>
+<img width="1072" height="1068" alt="image" src="https://github.com/user-attachments/assets/778e58ab-2879-411a-b13c-b166546b8151" />
+<br>
+<img width="1072" height="1068" alt="image" src="https://github.com/user-attachments/assets/61337c8d-a45e-4814-a5ba-e582bb2929b5" />
+<br>
+<img width="1072" height="1069" alt="image" src="https://github.com/user-attachments/assets/b28244ec-377e-462f-822a-72e49d9e7182" />
+<br>
+<img width="1072" height="961" alt="image" src="https://github.com/user-attachments/assets/5f9b99f1-0dd5-4220-a95a-b3044bd36acb" />
+<br>
+<img width="1179" height="935" alt="image" src="https://github.com/user-attachments/assets/870da670-e992-4676-a91a-46d409dd9bc0" />
+<br>
+<img width="1182" height="1058" alt="image" src="https://github.com/user-attachments/assets/4adb4f6a-1791-4420-b59d-3481e899317a" />
+<br>
+
 ## 🛠️ Setup Instructions
 
 Follow these steps to set up and run the GreenLife Wellness Center web application on your local machine:
